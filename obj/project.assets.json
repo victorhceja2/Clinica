@@ -10782,25 +10782,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/usuario/.nuget/packages/": {}
+    "/Users/victorceja/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/usuario/Clinica_Espina/Clinica1.0/MvcMovie.csproj",
+      "projectUniqueName": "/Users/victorceja/Projects/Clinica/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/usuario/Clinica_Espina/Clinica1.0/MvcMovie.csproj",
-      "packagesPath": "/Users/usuario/.nuget/packages/",
-      "outputPath": "/Users/usuario/Clinica_Espina/Clinica1.0/obj/",
+      "projectPath": "/Users/victorceja/Projects/Clinica/MvcMovie.csproj",
+      "packagesPath": "/Users/victorceja/.nuget/packages/",
+      "outputPath": "/Users/victorceja/Projects/Clinica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        "/Users/victorceja/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10857,7 +10856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
